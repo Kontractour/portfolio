@@ -61,6 +61,7 @@ Each project card displays:
 - **Project Name**
 - **Short Description**
 - **Live Demo Button**
+- **github Repo Linked Button**
 - **Tools Used** (e.g., HTML, CSS, JS)
 
 The layout adapts automatically:
