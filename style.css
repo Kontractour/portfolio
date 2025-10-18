@@ -518,6 +518,45 @@ body.dark .project-info .tools-used {
   color: #aaa;
 }
 
+.project-info .tools-used {
+  font-size: 0.85rem;
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+.tool-badge {
+  display: inline-block;
+  padding: 6px 14px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+  cursor: default;
+}
+
+.tool-badge:hover {
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.5);
+  background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+body.dark .tool-badge {
+  background: linear-gradient(135deg, #00d9ff 0%, #00a8cc 100%);
+  box-shadow: 0 2px 8px rgba(0, 217, 255, 0.3);
+}
+
+body.dark .tool-badge:hover {
+  background: linear-gradient(135deg, #00a8cc 0%, #00d9ff 100%);
+  box-shadow: 0 4px 15px rgba(0, 217, 255, 0.5);
+}
+
 /* Responsive Portfolio Layout */
 @media (min-width: 1200px) {
   .project { flex: 1 1 calc(33% - 20px); }
