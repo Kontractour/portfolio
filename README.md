@@ -12,16 +12,36 @@ This site reflects my growth as a **Frontend Developer** and will continue to ev
 ---
 
 ## 🧭 Table of Contents
+- [📷 Screenshots](#-screenshots)
+- [🚀 Live Demo & Repository](#-live-demo--repository)
 - [📜 Overview](#-overview)
 - [🧱 Built With](#-built-with)
 - [⚙️ Features](#️-features)
 - [💻 Portfolio Section](#-portfolio-section)
-- [📷 Screenshots](#-screenshots)
-- [🚀 Live Demo & Repository](#-live-demo--repository)
 - [🧭 How to Run Locally](#-how-to-run-locally)
 - [🌱 Future Improvements](#-future-improvements)
 - [👨‍💻 Author](#-author)
 
+---
+## 📷 Screenshots
+
+| Desktop View | Mobile View | Tablet View |
+|---------------|--------------|--------------|
+| ![Desktop](assets/portfolio-previews/desktop-view.png) | ![Tablet](assets/portfolio-previews/mobile-view.png) | ![Mobile](assets/portfolio-previews/tablet-view.png) |
+
+---
+
+## 🚀 Live Demo & Repository
+
+🌐 **Live Website:**  
+```
+https://kontractour.github.io/portfolio/
+```
+
+💾 **GitHub Repository:**  
+```
+https://github.com/Kontractour/portfolio
+```
 ---
 
 ## 📜 Overview
@@ -71,26 +91,6 @@ The layout adapts automatically:
 
 ---
 
-## 📷 Screenshots
-
-| Desktop View | Mobile View | Tablet View |
-|---------------|--------------|--------------|
-| ![Desktop](assets/portfolio-previews/desktop-view.png) | ![Tablet](assets/portfolio-previews/mobile-view.png) | ![Mobile](assets/portfolio-previews/tablet-view.png) |
-
----
-
-## 🚀 Live Demo & Repository
-
-🌐 **Live Website:**  
-```
-https://kontractour.github.io/portfolio/
-```
-
-💾 **GitHub Repository:**  
-```
-https://github.com/Kontractour/portfolio
-```
----
 
 ## 🧭 How to Run Locally
 
